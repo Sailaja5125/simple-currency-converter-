@@ -1,0 +1,11 @@
+{
+    "screencastMode.verticalOffset": 0,
+    "window.closeWhenEmpty": false,
+    "window.density.editorTabHeight": "compact",
+    "testing.alwaysRevealTestOnStateChange": true,
+    "debug.allowBreakpointsEverywhere": true,
+    "debug.autoExpandLazyVariables": true,
+    "debug.closeReadonlyTabsOnEnd": true,
+    "debug.hideLauncherWhileDebugging": false,
+    "debug.terminal.clearBeforeReusing": true
+}
